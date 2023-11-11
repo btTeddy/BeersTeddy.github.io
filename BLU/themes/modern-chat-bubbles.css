@@ -4,9 +4,9 @@
 ============================================================================
 
 /* Hide */
-fas.fa-envelope.pointee,
-fas.fa-gift.pointee {
-display: none;
+i.fas.fa-envelope.pointee,
+i.fas.fa-gift.pointee {
+  display: none;
 }
 
 /* Message avatar */
