@@ -10,6 +10,15 @@ span.text-muted {
   display: none;
 }
 
+/* Username */
+.sent .badge-user {
+  background-color: transparent;
+  box-shadow: none;
+  font-weight: bold;
+  font-size: 12px;
+  margin: 0;
+}
+
 /* Message avatar */
 .sent > a {
   height: 100%;
