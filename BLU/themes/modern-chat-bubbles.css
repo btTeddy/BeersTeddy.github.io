@@ -45,7 +45,7 @@
 }
 /* Bot messages */
 .sent > .system {
-  border-bottom-left-radius: 15px;
+  border-bottom-left-radius: 12px;
 }
 .sent > a[href="/users/System"] + h4 {
   display: none !important;
