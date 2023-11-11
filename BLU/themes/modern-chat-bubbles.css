@@ -10,13 +10,15 @@ span.text-muted {
   display: none;
 }
 
-/* Username */
-.sent .badge-user {
-  background-color: transparent;
-  box-shadow: none;
-  font-weight: bold;
-  font-size: 12px;
-  margin: 0;
+
+/* Avatar */
+#frame .content .messages ul li.sent a,
+#frame .content .messages ul li.sent img.chat-user-image {
+  height: 1.1em;
+  width: 1.1em;
+  border-width: 0 !important;
+  margin-top: 0.1em;
+  position: static;
 }
 
 /* Message avatar */
