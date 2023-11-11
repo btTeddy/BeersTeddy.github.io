@@ -8,10 +8,6 @@ i.fas.fa-envelope.pointee,
 i.fas.fa-gift.pointee {
   display: none;
 }
-span.text-muted {
-  visibility: hidden;
-}
-
 
 /* Message avatar */
 .sent > a {
