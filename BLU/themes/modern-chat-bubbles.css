@@ -3,6 +3,8 @@
 /* Chat Message Bubbles
 ============================================================================
 
+/* Hide */
+hide..pointee.fa-envelope.fas
 /* Message avatar */
 .sent > a {
   height: 100%;
