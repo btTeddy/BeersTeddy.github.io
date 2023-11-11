@@ -3,14 +3,6 @@
 /* Chat Message Bubbles
 ============================================================================
 
-/* Hide */
-i.fas.fa-envelope.pointee,
-i.fas.fa-gift.pointee,
-span.text-muted {
-  display: none;
-}
-
-
 /* Avatar */
 #frame .content .messages ul li.sent a,
 #frame .content .messages ul li.sent img.chat-user-image {
