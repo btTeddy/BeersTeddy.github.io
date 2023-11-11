@@ -4,11 +4,10 @@
 ============================================================================
 
 /* Hide */
-fa-envelope.pointee,
-pointee.fa-envelope.fas,
-fa-gift.pointee,
+i.fas.fa-envelope.pointee,
+i.fas.fa-gift.pointee,
 span.text-muted {
-  visibility: hidden;
+  display: none;
 }
 
 /* Message avatar */
