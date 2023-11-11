@@ -4,7 +4,12 @@
 ============================================================================
 
 /* Hide */
-hide..pointee.fa-envelope.fas
+i.fas.fa-envelope.pointee,
+i.fas.fa-gift.pointee,
+span.text-muted {
+  display: none;
+}
+
 /* Message avatar */
 .sent > a {
   height: 100%;
