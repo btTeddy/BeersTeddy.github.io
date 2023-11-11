@@ -4,8 +4,9 @@
 ============================================================================
 
 /* Hide */
-i.fas.fa-envelope.pointee,
-i.fas.fa-gift.pointee,
+fa-envelope.pointee,
+pointee.fa-envelope.fas,
+fa-gift.pointee,
 span.text-muted {
   visibility: hidden;
 }
