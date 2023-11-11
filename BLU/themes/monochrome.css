@@ -479,8 +479,8 @@ h4 .badge-user,
 .sent .badge-user {
   background-color: transparent;
   box-shadow: none;
-  font-weight: medium;
-  font-size: 13px;
+  font-weight: bold;
+  font-size: 12px;
   margin: 0;
 }
 /* Avatar */
