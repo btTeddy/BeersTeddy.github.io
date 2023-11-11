@@ -479,7 +479,7 @@ h4 .badge-user,
 .sent .badge-user {
   background-color: transparent;
   box-shadow: none;
-  font-weight: bold;
+  font-weight: medium;
   font-size: 14px;
   margin: 0;
 }
