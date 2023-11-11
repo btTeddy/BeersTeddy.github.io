@@ -7,7 +7,7 @@
 i.fas.fa-envelope.pointee,
 i.fas.fa-gift.pointee,
 span.text-muted {
-  display: none;
+  visibility: hidden;
 }
 
 /* Message avatar */
